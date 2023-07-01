@@ -1,0 +1,11 @@
+html {
+    background-color: lightgrey;
+}
+
+BODY{ background-color: aliceblue;}
+
+h1,h2 {color: lightcyan; background-color: black; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+
+nav > ul { background-color: lightgreen;}
+
+footer {background-color: blueviolet;}
